@@ -1,0 +1,26 @@
+{
+  "name": "musikquiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch": "nodemon ./server/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crobberts/musikquiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crobberts/musikquiz/issues"
+  },
+  "homepage": "https://github.com/crobberts/musikquiz#readme"
+}
